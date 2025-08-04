@@ -139,8 +139,8 @@ Esta técnica asegura que el LLM no "olvide" datos cruciales.
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL de tu repositorio de GitHub]
-    cd [nombre-del-repositorio]
+    git clone https://github.com/carriazoe12/TelcoBot-AI-Assistant.git
+    cd TelcoBot-AI-Assistant
     ```
 2.  **Configurar Entorno:**
     *   Crea un entorno virtual e instala las dependencias:
