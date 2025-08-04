@@ -1,5 +1,3 @@
-# chat_utils.py
-
 from supabase_config import supabase
 from openai import OpenAI
 import google.generativeai as genai

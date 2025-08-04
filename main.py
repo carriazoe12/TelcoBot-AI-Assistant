@@ -1,5 +1,3 @@
-# main.py
-
 import streamlit as st
 from chat_utils import (
     get_llm_response,
