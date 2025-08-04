@@ -132,8 +132,8 @@ El prompt define un flujo estricto basado en estados (ej: `ESPERANDO_TELEFONO`, 
     3.  Extrae el número de documento COMPLETO de la parte `DOC:<doc>`.
     4.  Extrae el nombre del usuario de la parte `NOMBRE:<nombre>`.
 - **Formato de Salida Obligatorio:** `<comando_interno>GENERAR_TICKET:<telefono_encontrado>:<documento_encontrado>:<nombre_encontrado>:perdida</comando_interno>`
-```Esta técnica asegura que el LLM no "olvide" datos cruciales como el número de documento, un bug que fue solucionado durante el desarrollo.
 ```
+Esta técnica asegura que el LLM no "olvide" datos cruciales como el número de documento, un bug que fue solucionado durante el desarrollo.
 
 ## Ejecución Local
 
