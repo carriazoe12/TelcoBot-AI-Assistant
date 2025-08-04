@@ -4,13 +4,11 @@
 
 **TelcoBot** es un chatbot avanzado impulsado por IA, diseñado para simular un proceso crítico de servicio al cliente en una empresa de telecomunicaciones: el bloqueo de líneas móviles por pérdida o robo. Este proyecto demuestra el uso de modelos de lenguaje de última generación (LLM) dentro de un marco de aplicación robusto y seguro, enfocado en la experiencia del usuario y la fiabilidad del proceso.
 
-## Demo en Vivo (Placeholder)
+## Demo en Vivo 
 
-*[Aquí puedes insertar un enlace a tu aplicación Streamlit Cloud una vez desplegada]*
+*[]*
 
-<img src="https://i.imgur.com/your-demo-image.gif" alt="Demo de TelcoBot" width="800"/>
 
-*(Reemplaza esta imagen con una captura de pantalla o un GIF de tu aplicación funcionando)*
 
 ## Probando la Aplicación: Escenarios de Prueba
 
