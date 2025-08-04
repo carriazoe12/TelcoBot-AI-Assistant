@@ -166,7 +166,7 @@ Esta técnica asegura que el LLM no "olvide" datos cruciales.
 ├── main.py              # Lógica principal de la aplicación Streamlit y la interfaz de usuario.
 ├── chat_utils.py        # Contiene el SYSTEM_PROMPT y toda la lógica de interacción con el LLM y el backend.
 ├── supabase_config.py   # Configura y exporta el cliente de Supabase.
-├── .env                 # Archivo con las credenciales (no debe subirse a Git).
+├── .env                 # Archivo con las credenciales.
 └── README.md            # Esta documentación.
 ```
 
